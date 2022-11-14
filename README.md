@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vcubesoftsolutions.com/wp-content/uploads/2021/11/image.jpg)](https://vikaspsr.io)
+[![MasterHead](https://www.orangemantra.com/blog/wp-content/uploads/2016/08/JAVA.png)](https://vikaspsr.io)
 
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
