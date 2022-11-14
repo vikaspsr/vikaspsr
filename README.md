@@ -1,8 +1,8 @@
-[![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)](https://vikaspsr.io)
+[![MasterHead](https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/dimension-java/JavaBanner.jpg)](https://vikaspsr.io)
 
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspsr&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspsr" /> </p>
 
