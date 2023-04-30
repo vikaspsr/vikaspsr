@@ -1,9 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-[![MasterHead](https://github.com/vikaspsr/5minAlgo/blob/main/animation.gif)
+![MasterHead](https://github.com/vikaspsr/5minAlgo/blob/main/animation.gif)
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
