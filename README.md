@@ -1,7 +1,10 @@
-[![MasterHead](https://www.orangemantra.com/blog/wp-content/uploads/2016/08/JAVA.png)](https://vikaspsr.io)
+
 
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
+
+[![MasterHead](https://github.com/vikaspsr/5minAlgo/blob/main/animation.gif)
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspsr&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspsr" /> </p>
@@ -10,19 +13,32 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Crime Record Management](https://github.com/vikaspsr/crazy-name-9363)
 
-- 🌱 I’m currently learning **core java,mysql,spring-tool.**
 
-- 👯 I’m looking to collaborate on [plastic-scent-App](https://github.com/Uchiha-D-Kurosaki/plastic-scent-4061)
 
-- 📝 I regularly write articles on [Based on Application core mathematics in problem solving.](Based on Application core mathematics in problem solving.)
+- 🔭 I’m currently working on **Java Backend frameworks**
+
+- 🌱 I’m currently learning **Spring-Boot**
+
+- 🤝 I’m looking for help with **Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/vikaspsr](https://github.com/vikaspsr)
+
+
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hVoMIrRNySew-sIE6-okj6zkn_2ElYG9/view?usp=share_link)
+
+
+
+
+
+
+
+- 📝 I regularly write articles on [Based on Application core mathematics in problem solving.](Based on Application of mathematics in problem solving.)
 
 - 💬 Ask me about **core java ,mysql,jdbc Api,java script, Dsa problems solution.**
 
 - 📫 How to reach me **vikaspsr@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hVoMIrRNySew-sIE6-okj6zkn_2ElYG9/view?usp=share_link](https://drive.google.com/file/d/1hVoMIrRNySew-sIE6-okj6zkn_2ElYG9/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
